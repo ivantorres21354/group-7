@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.info h3{
+    text-align: justify;
+    font-size: 30px;
+    color: rgb(red, green, blue);
+    margin: auto;
+    font-weight: bold;
+    text-decoration: none;
+}
